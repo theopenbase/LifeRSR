@@ -109,11 +109,13 @@ pytest tests/ -v              # 运行全部测试
 
 **待办：** 见 TODOS.md（Phase 4-5 知识图谱 + 智能层，SQLite FTS5 索引层）
 
-## 相关文件（项目外）
+## gstack 决策记录
 
-- `~/.gstack/projects/theopenbase/ceo-plans/` — CEO plan 原始记录
-- `~/.gstack/projects/theopenbase/feishufang-unknown-design-*.md` — Office hours 设计文档
-- `~/.gstack/projects/theopenbase/feishufang-master-test-plan-*.md` — 测试计划
+规划阶段通过 gstack skills 完成的决策文档，归档在 `docs/gstack/`：
+
+- `docs/gstack/ceo-plan-2026-03-19.md` — CEO Review：产品愿景、7 项扩展全部 ACCEPTED
+- `docs/gstack/office-hours-2026-03-19.md` — Office Hours：startup 验证、MVP 切入点锁定
+- `docs/gstack/eng-review-test-plan-2026-03-19.md` — Eng Review：测试计划、架构决策
 
 ## gstack
 
