@@ -1,0 +1,25 @@
+# Environment
+.env
+
+# Data (sensitive personal content)
+data/inbox/
+data/knowledge/
+data/staging/
+data/.state.db
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
